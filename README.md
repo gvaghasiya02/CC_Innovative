@@ -9,6 +9,17 @@ Constructs of C++ focused:
 - if - else
 - while loop
 - Basic data types - int, float, char
+
+
+## Member:
+
+Hrujul Thumar - [@HrujulThumar22](https://github.com/HrujulThumar22) - 18BCE077@nirmauni.ac.in
+
+Gaurav Vaghasiya - [@gvaghasiya02](https://github.com/gvaghasiya02) - 18BCE070@nirmauni.ac.in
+
+Kaushal Jani - [@jKaushalb](https://github.com/jKaushalb) - 18BCE084@nirmauni.ac.in
+
+
 ### 1. Output lexical analysis and syntax analysis
 ---------------
 ![1.png](/img/1.png)
